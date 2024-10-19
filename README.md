@@ -13,5 +13,7 @@ ORM/ODM:  Sequelize (for SQL)
 
 # frontend
 Reactjs
+
+
 tailwind css
 
